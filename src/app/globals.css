@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Authentication css */
+form {
+  max-width: 400px;
+}
+
+.input-group-text {
+  background-color: #007bff;
+  color: white;
+}
